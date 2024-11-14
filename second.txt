@@ -1,2 +1,4 @@
 ああああ
 いいいいい
+・git add
+・git commit
