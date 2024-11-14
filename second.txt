@@ -2,3 +2,4 @@
 いいいいい
 ・git add
 ・git commit
+・git rm
